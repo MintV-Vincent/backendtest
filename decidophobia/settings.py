@@ -78,9 +78,11 @@ CORS_ALLOW_HEADERS = [
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'http://localhost:3001',
-    'https://backendtest-3qxv.onrender.com'
+    'http://backendtest-3qxv.onrender.com',
+    'http://decidophobia.vercel.app'
 ]
 CORS_ALLOW_CREDENTIALS = True
+
 
 ROOT_URLCONF = 'decidophobia.urls'
 
