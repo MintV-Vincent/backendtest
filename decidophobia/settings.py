@@ -79,7 +79,7 @@ CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
     'http://localhost:3001',
     'http://backendtest-3qxv.onrender.com',
-    'http://decidophobia.vercel.app'
+    'https://decidophobia.vercel.app'
 ]
 CORS_ALLOW_CREDENTIALS = True
 
